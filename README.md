@@ -1,5 +1,5 @@
 # PSTAT-115-Bayesian-Analysis
-All files are assignments I completed individually for my Bayesian Analysis course. 
+All files are assignments I completed individually for my Bayesian Analysis course. Projects were completed in R through a JupyterHub Server and used STAN modeling at times.
 Homework 1 covers a text analysis of Harry Potter.
 Homework 2 covers conjugacy pairs.
 Homework 3 covers posterior predictive modeling and model checking.
